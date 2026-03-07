@@ -1,4 +1,3 @@
-Live Demo: https://ai-resume-analyzer-bunmtwomxnurbwlemsnuhg.streamlit.app
 AI Resume Analyzer (Machine Learning + Generative AI Concept)
 
 Steps to Run:
